@@ -23,7 +23,14 @@ The dataset was cleaned, modeled, and visualized entirely in **Power BI**, using
 - **Excel / CSV** – Raw loan data source  
 - **SQL** – For preliminary transformations if working with large databases
 - **Tableau**-Interactive reports
+- --
+##  ETL & Data Preparation
+1. **Extract** – Gathered Bank loan  datasets .
+2. **Transform** – Cleaned and shaped the data: handled missing values, standardized formats.
+3. **Load** – Built Power BI data model, created relationships, and implemented DAX calculations.
 
+4. ### 🔹 **Power BI Dashboard**
+5. 
 ---
 
 ##  Recommendations
