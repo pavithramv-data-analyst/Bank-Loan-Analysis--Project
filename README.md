@@ -30,7 +30,7 @@ The dataset was cleaned, modeled, and visualized entirely in **Power BI**, using
 3. **Load** – Built Power BI data model, created relationships, and implemented DAX calculations.
 
 4. ### 🔹 **Power BI Dashboard**
-5. 
+-- https://github.com/pavithramv-data-analyst/Bank-Loan-Analysis--Project/blob/main/Bank%20%20Loan%20Analysis%20Dashboard.pbix
 ---
 ##  Key Insights
 - **Approval vs. Rejection**  
