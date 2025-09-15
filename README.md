@@ -32,6 +32,18 @@ The dataset was cleaned, modeled, and visualized entirely in **Power BI**, using
 4. ### 🔹 **Power BI Dashboard**
 5. 
 ---
+##  Key Insights
+- **Approval vs. Rejection**  
+  - ~68% of applications were approved, while 32% were either rejected or pending.
+- **Default Trends**  
+  - Personal loans showed the highest default rate (~12%), compared to ~4% for home loans.
+- **High-Risk Segments**  
+  - Borrowers with credit scores below 650 accounted for over 70% of defaults.
+- **Regional Performance**  
+  - Urban branches generated 60% of total loan value but also 55% of delinquent accounts.
+- **Revenue Drivers**  
+  - Mortgage products contributed ~40% of total interest income.
+
 
 ##  Recommendations
 Based on the dashboard insights 
